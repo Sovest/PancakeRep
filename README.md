@@ -1,2 +1,2 @@
-# Skillbox_directory
- Repository to store my code during Skillbox practicies
+# Pancake Repositiry
+ Once upon a time there was a pancake and this pancake was acceptable
